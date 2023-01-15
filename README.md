@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Imran pasha 
-- 👀 Embedded system enthusiastic 
-- 🌱 I’m currently learning ... C programming 
-- 💞️ 
+- 👀 ## Embedded System Enthusiastic 
+- 🌱 skilled in > ## C programming 
+- 💞️
 - 📫 How to reach me  > https://www.linkedin.com/in/md-imran-090b831b3
 
 <!---
